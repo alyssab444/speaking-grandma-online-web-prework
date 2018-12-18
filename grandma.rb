@@ -1,6 +1,7 @@
-speak_to_grandma= "I love you grandma"
-  if speak_to_grandma== ""
+speak_to_grandma= "I love you grandma.upcase"
+  if speak_to_grandma== "I love you grandma"
     puts "Huh?! Speak up, Sonny!"
+    
     
 
 # Whatever you say to grandma, she should respond with
