@@ -1,6 +1,6 @@
 speak_to_grandma= "I love you grandma"
-  if speak_to_grandma== "Huh?! Speak up, Sonny!"
-    puts
+  if speak_to_grandma== ""
+    puts "Huh?! Speak up, Sonny!"
     
 
 # Whatever you say to grandma, she should respond with
