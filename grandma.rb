@@ -1,7 +1,8 @@
 speak_to_grandma= "I love you grandma.upcase"
   if speak_to_grandma== "I love you grandma"
     puts "Huh?! Speak up, Sonny!"
-    
+  elseif speak_to_grandma==I love you grandma"
+    puts "
     
 
 # Whatever you say to grandma, she should respond with
