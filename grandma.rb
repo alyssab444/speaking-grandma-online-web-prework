@@ -5,6 +5,7 @@ def speak_to_grandma= ("I love you grandma!".upcase)
     puts "Huh?! Speak up, sonny!"
   elseif speak_to_grandma== "Hi"
     puts "Huh?! Speak up, sonny!"
+  elseif speak_to_grandma== ""
   else speak_to_grandma== "I love you grandma!".upcase
     puts "No, not since 1938!"
 end
